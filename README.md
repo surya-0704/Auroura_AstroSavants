@@ -16,6 +16,9 @@ We have now used this new file to compress the present data from per minute anal
 To directly access the training data download [training_file.csv](https://drive.google.com/file/d/1kpQE39LR5SGKxlnylFtFZmnYmHX04gW6/view?usp=drive_link)
 
 
+To see further report analysis see respective .HTML files.
+
+
 
 
 
